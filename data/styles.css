@@ -17,6 +17,8 @@
 }
 .placeholder {
 }
+.button {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -70,13 +72,29 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
 .menu_item {
 }
 .snapshot {
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
 }
 .marker {
   color:#FFFFFF;
