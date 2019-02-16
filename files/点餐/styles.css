@@ -1015,10 +1015,10 @@
   top:0px;
   width:375px;
   height:383px;
-  overflow:auto;
-  -webkit-overflow-scrolling:touch;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u77_state0_content {
